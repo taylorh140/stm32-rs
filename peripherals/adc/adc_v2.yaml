@@ -81,6 +81,15 @@ _include:
       TIM2CC3: [4, "Timer 2 CC3 event"]
       TIM2CC4: [5, "Timer 2 CC4 event"]
       TIM2TRGO: [6, "Timer 2 TRGO event"]
+      TIM3CC1: [7, "Timer 3 CC1 event"]
+      TIM3TRGO: [8, "Timer 3 TRGO event"]
+      TIM4CC4: [9, "Timer 4 CC4 event"]
+      TIM5CC1: [10, "Timer 5 CC1 event"]
+      TIM5CC2: [11, "Timer 5 CC2 event"]
+      TIM5CC3: [12, "Timer 5 CC3 event"]
+      TIM8CC1: [13, "Timer 8 CC1 event"]
+      TIM8TRGO: [14, "Timer 8 TRGO event"]
+      EXTI11: [15, "EXTI line11"]
     JSWSTART:
       _write:
         Start: [1, "Starts conversion of injected channels"]
